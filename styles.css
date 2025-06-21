@@ -199,16 +199,20 @@ body {
   font-weight: var(--fw-800);
 }
 
+.btn:hover {
+  background: linear-gradient(var(--light-stale-blue), var(--light-royal-blue));
+}
+
 /* ### MEDIA QUERIES ### */
 
-@media (max-width: 20em) {
+@media (max-width: 30em) {
   .summary-list-item {
     flex-direction: column;
     padding-block: 1rem;
   }
 }
 
-@media (min-width: 30em) {
+@media (min-width: 35.625em) {
   main {
     min-height: 100vh;
     display: flex;

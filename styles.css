@@ -49,6 +49,16 @@ img {
   display: block;
 }
 
+/* ### UTILITIES ### */
+
+.text-gray {
+  color: var(--pale-blue);
+}
+
+.stack > * + * {
+  margin-top: var(--stack-space, 1rem);
+}
+
 /* ### STYLING ### */
 
 body {

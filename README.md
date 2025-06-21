@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution](https://your-solution-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/results-summary-component-OXGdK0drvo)
 - Live Site URL: [Live](https://matiasbastarrica.github.io/results-summary-component/)
 
 ## My process
